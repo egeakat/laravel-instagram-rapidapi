@@ -1,0 +1,80 @@
+{
+    "node": {
+        "__typename": "GraphImage",
+        "id": "2600471650382259251",
+        "shortcode": "CQWuzApgiQz",
+        "dimensions": {
+            "height": 467,
+            "width": 640
+        },
+        "display_url": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/204188592_274234020705363_8677406353083750297_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=EonULA9jO0EAX9sjppT&edm=ABfd0MgBAAAA&ccb=7-4&oh=2e49d60630fc51c62b91f5b2e834b9d9&oe=60D68C3D&_nc_sid=7bff83",
+        "edge_media_to_tagged_user": {
+            "edges": []
+        },
+        "fact_check_overall_rating": null,
+        "fact_check_information": null,
+        "gating_info": null,
+        "sharing_friction_info": {
+            "should_have_sharing_friction": false,
+            "bloks_app_url": null
+        },
+        "media_overlay_info": null,
+        "media_preview": "ACoey47KRyChVh65wPxyM/lmtdbMiAw5GWOc447U61ACADpirQOOtAHPNG1tIA2CQQRz1HtW7Dq8LcPujPuMj8x/hTi8Wf3m0gdd2Dis+cWpyFUIeedzAcd8YIoA6FJElG5CGHsc0woa5cweUAykhs444IIGecGn/a7j/nq36f4UAO85CMA49jkfyo3LknKnPqx6Hr196rg5HNG0GgC4UDYA2EY9RkenU8jGM/jip4YlIPmBPQAYIxwf54/Kssxim7COlAGjeKqIoXAGT0+lZ+ajZiP8/wD1qj8w+v6CgD//2Q==",
+        "owner": {
+            "id": "8499188108",
+            "username": "archillect"
+        },
+        "is_video": false,
+        "has_upcoming_event": false,
+        "accessibility_caption": "Photo by Archillect on June 20, 2021. May be a black-and-white image of text that says 'LOOK MUM I'M PAINTING WALLS LEGALLY NOW'.",
+        "edge_media_to_caption": {
+            "edges": [
+                {
+                    "node": {
+                        "text": "weheartit\nhttp://weheartit.com/entry/298883195\n.\n[335525]\nUse #archillect to get discovered.\nSend your creations to @archillect. \n\n#Blackandwhite #Style #Font #Motorvehicle #Facade #City #Gas #Metropolitanarea #Road #Signage #archillect"
+                    }
+                }
+            ]
+        },
+        "edge_media_to_comment": {
+            "count": 1
+        },
+        "comments_disabled": false,
+        "taken_at_timestamp": 1624220399,
+        "edge_liked_by": {
+            "count": 1603
+        },
+        "edge_media_preview_like": {
+            "count": 1603
+        },
+        "location": null,
+        "thumbnail_src": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/c67.0.365.365a/204188592_274234020705363_8677406353083750297_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=EonULA9jO0EAX9sjppT&tn=KMuxNOsv7okl73rN&edm=ABfd0MgBAAAA&ccb=7-4&oh=a52d5bf25bca3e874c33ae425f447b16&oe=60D6DE32&_nc_sid=7bff83",
+        "thumbnail_resources": [
+            {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/c67.0.365.365a/s150x150/204188592_274234020705363_8677406353083750297_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=EonULA9jO0EAX9sjppT&edm=ABfd0MgBAAAA&ccb=7-4&oh=739d085435ab779ecae3589a5eb1faed&oe=60D741AF&_nc_sid=7bff83",
+                "config_width": 150,
+                "config_height": 150
+            },
+            {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/c67.0.365.365a/s240x240/204188592_274234020705363_8677406353083750297_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=EonULA9jO0EAX9sjppT&edm=ABfd0MgBAAAA&ccb=7-4&oh=fe3fdfb92defd2a4e416cc27cc6d78ac&oe=60D75F69&_nc_sid=7bff83",
+                "config_width": 240,
+                "config_height": 240
+            },
+            {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/c67.0.365.365a/s320x320/204188592_274234020705363_8677406353083750297_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=EonULA9jO0EAX9sjppT&edm=ABfd0MgBAAAA&ccb=7-4&oh=2b14844fb2133167ad086c51f09edef2&oe=60D6D1D7&_nc_sid=7bff83",
+                "config_width": 320,
+                "config_height": 320
+            },
+            {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/c67.0.365.365a/204188592_274234020705363_8677406353083750297_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=EonULA9jO0EAX9sjppT&edm=ABfd0MgBAAAA&ccb=7-4&oh=95455cb3a8de24c81994e8d62f662ab5&oe=60D6DE32&_nc_sid=7bff83",
+                "config_width": 480,
+                "config_height": 480
+            },
+            {
+                "src": "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-15/e35/c67.0.365.365a/204188592_274234020705363_8677406353083750297_n.jpg?tp=1&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=103&_nc_ohc=EonULA9jO0EAX9sjppT&edm=ABfd0MgBAAAA&ccb=7-4&oh=95455cb3a8de24c81994e8d62f662ab5&oe=60D6DE32&_nc_sid=7bff83",
+                "config_width": 640,
+                "config_height": 640
+            }
+        ]
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "status": "ok",
+    "data": {
+        "user": {
+            "biography": "So long, and thanks for all the fish\nHacettepe University CS\n@hacettepeoyt",
+            "blocked_by_viewer": false,
+            "restricted_by_viewer": false,
+            "country_block": false,
+            "external_url": null,
+            "external_url_linkshimmed": null,
+            "edge_followed_by": {
+                "count": 584
+            },
+            "fbid": "17841406515478155",
+            "followed_by_viewer": false,
+            "edge_follow": {
+                "count": 580
+            },
+            "follows_viewer": false,
+            "full_name": "Ege Akat",
+            "has_ar_effects": false,
+            "has_clips": false,
+            "has_guides": false,
+            "has_channel": false,
+            "has_blocked_viewer": false,
+            "highlight_reel_count": 0,
+            "has_requested_viewer": false,
+            "hide_like_and_view_counts": false,
+            "id": "6625241182",
+            "is_business_account": false,
+            "is_professional_account": false,
+            "is_joined_recently": false,
+            "business_address_json": null,
+            "business_contact_method": null,
+            "business_email": null,
+            "business_phone_number": null,
+            "business_category_name": null,
+            "overall_category_name": null,
+            "category_enum": null,
+            "category_name": null,
+            "is_private": true,
+            "is_verified": false,
+            "edge_mutual_followed_by": {
+                "count": 0,
+                "edges": []
+            },
+            "profile_pic_url": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/s150x150/100969973_275923210449652_1662562577353277440_n.jpg?tp=1&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_ohc=KAU1CVyZlcIAX9HVoCY&edm=ABfd0MgBAAAA&ccb=7-4&oh=ad4a0332ba995d5edf8efd3c1597737a&oe=60D78205&_nc_sid=7bff83",
+            "profile_pic_url_hd": "https://scontent-lga3-2.cdninstagram.com/v/t51.2885-19/s320x320/100969973_275923210449652_1662562577353277440_n.jpg?tp=1&_nc_ht=scontent-lga3-2.cdninstagram.com&_nc_ohc=KAU1CVyZlcIAX9HVoCY&edm=ABfd0MgBAAAA&ccb=7-4&oh=a8030da625f0a1324f9ca2598cb7bb1f&oe=60D6377D&_nc_sid=7bff83",
+            "requested_by_viewer": false,
+            "should_show_category": false,
+            "should_show_public_contacts": false,
+            "username": "egeakat",
+            "connected_fb_page": null,
+            "edge_felix_video_timeline": {
+                "count": 0,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": []
+            },
+            "edge_owner_to_timeline_media": {
+                "count": 7,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": ""
+                },
+                "edges": []
+            },
+            "edge_saved_media": {
+                "count": 0,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": []
+            },
+            "edge_media_collections": {
+                "count": 0,
+                "page_info": {
+                    "has_next_page": false,
+                    "end_cursor": null
+                },
+                "edges": []
+            }
+        }
+    }
+}
